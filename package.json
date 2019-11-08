@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "React Profolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudpod1/reactProfolio.git"
+  },
+  "keywords": [
+    "Porfolio",
+    "Claudia",
+    "Pollinger"
+  ],
+  "author": "Claudia Pollinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudpod1/reactProfolio/issues"
+  },
+  "homepage": "https://github.com/Claudpod1/reactProfolio#readme"
+}
